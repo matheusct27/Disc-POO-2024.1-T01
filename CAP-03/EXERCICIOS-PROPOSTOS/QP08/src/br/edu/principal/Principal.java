@@ -12,7 +12,6 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		// Objeto Scanner para receber entrada
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Digite o valor da base maior: ");
@@ -26,7 +25,7 @@ public class Principal {
 		// Exibe o resultado.
 		System.out.println("A área do trapézio é: " + Area);
 		
-		sc.close();
+
 		
 
 	}
