@@ -12,7 +12,6 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		// Objeto Scanner para receber entrada
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Digite a temperatura em graus Celsius: ");
@@ -22,7 +21,7 @@ public class Principal {
 		// Exibe o resultado.
 		System.out.println("A temperatura em Fahrenheit é: " + Fahrenheit);
 		
-		sc.close();
+
 		
 		
 		
