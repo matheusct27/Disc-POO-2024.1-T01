@@ -13,7 +13,6 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		// Objeto Scanner para receber entrada
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Digite o número de lados do polígono(convexo): ");
@@ -22,8 +21,7 @@ public class Principal {
 		double Diagonais = lados * (lados-3)/2;
 		// Exibe o resultado.
 		System.out.println("O número de diagonais desse polígono é: " + Diagonais);
-		
-		sc.close();
+
 		
 		
 	}
