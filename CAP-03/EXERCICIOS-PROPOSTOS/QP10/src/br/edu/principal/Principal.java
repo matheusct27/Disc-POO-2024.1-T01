@@ -15,7 +15,7 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		// Objeto Scanner para receber entrada
+		
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Digite o seu ano de nascimento: ");
@@ -23,12 +23,12 @@ public class Principal {
 		
 		System.out.println("Digite o ano atual: ");
 		int AnoAtual = sc.nextInt();
-		
+		// Calculo da idade em anos, meses, dias e semanas
 		int IdadeAnos = AnoAtual - AnoNasc;
 		int IdadeMeses = IdadeAnos * 12;
 		int IdadeDias = IdadeAnos * 365;
 		int IdadeSemanas = IdadeDias / 7;
-		
+		// Exibe o resultado
 		System.out.println("Sua idade em Anos é: " + IdadeAnos);
 		System.out.println("Sua idade em meses é: " + IdadeMeses);
 		System.out.println("Sua idade em dias é: " + IdadeDias);
