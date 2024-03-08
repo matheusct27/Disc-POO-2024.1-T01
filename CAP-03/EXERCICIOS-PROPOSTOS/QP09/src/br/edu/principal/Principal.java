@@ -12,7 +12,6 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		// Objeto Scanner para receber entrada
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Digite o valor do salário mínimo: ");
@@ -23,8 +22,7 @@ public class Principal {
 		double SalarioQnt = SalarioFuncionario / SalarioMinimo;
 		// Exibe o resultado
 		System.out.println("O funcionário ganha " + SalarioQnt + "salários mínimos");
-		
-		sc.close();
+
 
 	}
 
