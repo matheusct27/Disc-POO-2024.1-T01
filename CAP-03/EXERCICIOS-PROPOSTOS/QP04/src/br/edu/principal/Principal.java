@@ -10,7 +10,6 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		// Objeto Scanner para receber entrada
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Digite o preço do produto: ");
@@ -21,7 +20,7 @@ public class Principal {
 		// Exibe o resultado.
 		System.out.println("O preço do produto com o desconto de 10% é: " + ProdutoD);
 		
-		sc.close();
+
 		
 
 
