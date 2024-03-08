@@ -11,7 +11,6 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		// Objeto Scanner para receber entrada
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Digite o seu peso em quilos: ");
@@ -21,7 +20,7 @@ public class Principal {
 
 		System.out.println("O seu peso em gramas é: " + gramas);
 		
-		sc.close();
+
 		
 	}
 
