@@ -14,7 +14,6 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		// Objeto Scanner para receber entrada
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Digite a hora:");
@@ -32,7 +31,7 @@ public class Principal {
 		System.out.println("Os minutos totais são: " + totalMin);
 		System.out.println("A quantidade total de segundos é: " + Segundos);
 		
-		sc.close();
+	
 			
 
 	}
