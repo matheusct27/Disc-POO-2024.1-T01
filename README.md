@@ -1,9 +1,9 @@
 # Disc-POO-2024-1-T01
-* <h3>Atividades De POO java<h3>
+* <h3>Trabalho da Disciplina de POO java<h3>
 <br>
 <br>
 
-# <h3> Lista 01 - TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente) <h3>
+# <h3> Trabalho 01 - TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente) <h3>
 * Cap. 03 (Estrutura Sequencial) 
 <br>
 
