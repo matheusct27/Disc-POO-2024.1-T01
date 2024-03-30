@@ -14,7 +14,8 @@
   - Roger Moura Sarmento
 
   ## Grupo
-  - André Luiz : https://github.com/Andre-Luiz-lopes/DisciplinaPOO2023.2
-  - Matheus cardoso: https://github.com/matheusct27/Disc-POO-2024-1-T01
-  - Francisco Aldamir:
-  - Riquelmy Ricarte:
+  - [André Luiz](https://github.com/Andre-Luiz-lopes)
+  - [Matheus Cardoso](https://github.com/matheusct27)
+  - [Francisco Aldamir](https://github.com/)
+  - [Riquelmy Ricarte](https://github.com/Riquelmy77)
+ 
