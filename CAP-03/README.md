@@ -1,5 +1,5 @@
-#CAP-03
-##Exercícios Resolvidos.
+# CAP-03
+## Exercícios Resolvidos.
 |Questão|Enunciado|
 |-------|---------|
 |1|Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.|
@@ -50,7 +50,7 @@
 |24|Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos.|
 |25|Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse programa deverá calcular e mostrar a quantidade de convites que devem ser vendidos para que, pelo menos, o custo do espetáculo seja alcançado.|
 
-##Exercícios Propostos.
+## Exercícios Propostos.
 |Questão|Enunciado|
 |-------|---------|
 |16|Faça um programa que receba o valor dos catetos de um triângulo, calcule e mostre o valor da hipotenusa.|
